@@ -9,3 +9,8 @@ int summation(int num){
 
     return sum;
 }
+
+int main()
+{
+    summation(14);
+}
